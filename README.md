@@ -1,14 +1,13 @@
-# Angular + Nebular seed project
+# Angular + Nebular nscoupons project
 
-The project is created as a seed for a super quick start with Nebular.
-Could be useful as a starting point for creating https://stackblitz.com examples and bug reports.
+The project is created learning purpose.
 
 
 ## Links
 
 - [Nebular](https://github.com/akveo/nebular)
 - [Angular](https://github.com/angular/angular)
-- [Nebular Stackblitz template](https://stackblitz.com/github/akveo/nebular-seed)
+
 
 
 
